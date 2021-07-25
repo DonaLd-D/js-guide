@@ -16,4 +16,4 @@
 
 
 ## 资源🆓
-- 
+- awesome [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
