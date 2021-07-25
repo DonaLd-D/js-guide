@@ -9,10 +9,11 @@
 - typeorm [https://typeorm.biunav.com/](https://typeorm.biunav.com/)
 
 ## 书籍📚
-- 深入浅出node.js
-- 了不起的node.js
-- node.js实战（第二版）
+- 深入浅出node.js [书本源码](https://github.com/JacksonTian/diveintonode_examples)
+- 了不起的node.js [书本源码](https://github.com/xuanwomingren1990/smashingnode-master)
+- node.js实战（第二版）[书本源码](https://github.com/JacksonTian/diveintonode_examples)
 - node.js实战（第二季）
+- 更了不起的node.js [https://github.com/i5ting/glorious-node](https://github.com/i5ting/glorious-node)
 
 
 ## 资源🆓
