@@ -7,6 +7,7 @@
 - egg.js [https://eggjs.org/zh-cn/intro/](https://eggjs.org/zh-cn/intro/)
 - sequelize [https://www.sequelize.com.cn/](https://www.sequelize.com.cn/)
 - typeorm [https://typeorm.biunav.com/](https://typeorm.biunav.com/)
+- [https://www.zdzn.net/page/node.html](https://www.zdzn.net/page/node.html)
 
 ## 书籍📚
 - 深入浅出node.js [书本源码](https://github.com/JacksonTian/diveintonode_examples)
