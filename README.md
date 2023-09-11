@@ -153,3 +153,30 @@
 - [Dan Abramov](https://overreacted.io/)
 - [Dan Abramov(my-decade-in-review)](https://overreacted.io/my-decade-in-review/)
 - [Dan Abramov(things-i-dont-know-as-of-2018)](https://overreacted.io/things-i-dont-know-as-of-2018/)
+
+# `admin`
+
+### vue-eco
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus)
+- [Vben Admin](https://vvbin.cn/doc-next/)
+- [d2-admin](https://d2.pub/zh/doc/d2-admin/)
+### react-eco
+- [ANT DESIGN PRO](https://pro.ant.design/zh-CN/)
+
+### node-eco
+- [m-mall-admin](https://github.com/skyvow/m-mall-admin)
+- [mongo-express](https://github.com/mongo-express/mongo-express)
+- [express-admin](https://github.com/simov/express-admin)
+- [express-vue-admin](https://github.com/jarontai/express-vue-admin)
+- [egg-admin-service](https://github.com/xjchenhao/egg-admin-service)
+- [koa-admin](https://github.com/contact919/koa-admin)
+- [react-admin-nest](https://github.com/weiqinke/react-admin-nest)
+- [nest-admin](https://github.com/wenqiyun/nest-admin)
+- [sf-nest-admin](https://github.com/hackycy/sf-nest-admin)
+
+### others
+- [gin-vue-admin](https://www.gin-vue-admin.com/docs/)
+- [ruoyi](http://doc.ruoyi.vip/ruoyi/)
+
