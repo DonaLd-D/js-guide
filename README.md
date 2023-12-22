@@ -180,3 +180,9 @@
 - [gin-vue-admin](https://www.gin-vue-admin.com/docs/)
 - [ruoyi](http://doc.ruoyi.vip/ruoyi/)
 
+# `考研408`
+- [计算机组成原理](https://www.bilibili.com/video/BV1BE411D7ii/?spm_id_from=333.999.0.0)
+- [操作系统](https://www.bilibili.com/video/BV1YE411D7nH/?spm_id_from=333.999.0.0&vd_source=11fd9936e8ba4f4b7488bdb5099fee67)
+- [计算机网络](https://www.bilibili.com/video/BV19E411D78Q/?spm_id_from=333.999.0.0&vd_source=11fd9936e8ba4f4b7488bdb5099fee67)
+- [数据结构](https://www.bilibili.com/video/BV1b7411N798/?spm_id_from=333.999.0.0&vd_source=11fd9936e8ba4f4b7488bdb5099fee67)
+
